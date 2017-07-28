@@ -22,6 +22,13 @@
 - 仓库内的图片
 ![Selenium Open](images/chapt3_img05_IDE_open.png "百度网站")
 
+图片的引用式链接：
+- 外部图片 demo
+![百度][baidu_logo]
+- 仓库内的图片
+![Selenium Open](images/chapt3_img05_IDE_open.png "百度网站")
+
+
 ## 引用 Demo
 
 ## 代码块 Demo
@@ -32,3 +39,6 @@
 [baidu]:http://www.baidu.com
 [demo1]:demo1.md
 [代码块 demo]:demo2.md#代码块-demo
+
+
+[baidu_logo]:https://www.baidu.com/img/bd_logo1.png 
