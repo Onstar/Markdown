@@ -31,8 +31,17 @@
 
 ## 引用 Demo
 
-## 代码块 Demo
+> 单个引用   
 
+>> 多级引用
+
+## 代码块 Demo
+```
+var a=0;
+console.lgo(a);
+```
+行内代码块：  
+用`var a=0`声明一个变量并赋值，再用`console.log(a)`输出`a`的值
 <!--- 下面是文档中用到的链接 -->
 
 [百度]:http://www.baidu.com
