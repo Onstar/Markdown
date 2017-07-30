@@ -21,7 +21,7 @@ ___
 ## 表格 demo
 
 |    这     |   是     |   表头   |  
-| : ----  |  :----:  | ----- : |  
+| : ----  |  :----: | ----- : |  
 |  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |  
 |  row2  |  row2  |  rwo2  |
 <!-- 冒号(:)用来设置对其方式。默认是左对齐。 -->
