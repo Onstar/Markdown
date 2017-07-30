@@ -19,19 +19,19 @@ ___
 <!-- 这是注释不会被显示在页面上 -->
 
 ## 表格 demo
-
-|    这     |   是     |   表头   |
-| : ----  |  :----:  | ----- : |
+|  这  |  是  |  表头  |
+|  ----  |  ---- | -----  |
 |  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |
 |  row2  |  row2  |  rwo2  |
 <!-- 冒号(:)用来设置对其方式。默认是左对齐。 -->
 
-精简表格：  
-    这     |   是     |   表头   
- : ----  |  :----:  | ----- : 
+<!--精简表格：    
+  这  |  是  |  表头    
+  ----|  ---- | -----   
   row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf 
-  row2  |  row2  |  rwo2  
-<!-- 在github上可以看出效果-->
+  row2  |  row2  |  rwo2  -->
+
+<!-- 在github上可以看出效果(精简表格显示不出？？出现了问题）-->
 
 ## GFM demo
 Github Flvored Markdown, GFM  
@@ -41,5 +41,5 @@ Github Flvored Markdown, GFM
 - [x] tiem1
 
 2. emoji:表情符号  
-	: emoji code:  
+	:smile:  
 [具体每一个表情的符号码，可以点击查询GitHub的官方网页](http://www.emoji-cheat-sheet.com)。
