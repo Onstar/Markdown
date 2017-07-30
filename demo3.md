@@ -19,18 +19,18 @@ ___
 <!-- 这是注释不会被显示在页面上 -->
 
 ## 表格 demo
-
-|    这     |   是     |   表头   |  
-| : ----  |  :----: | ----- : |  
-|  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |  
+|  这  |  是  |  表头  |
+|  ----  |  ---- | -----  |
+|  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |
 |  row2  |  row2  |  rwo2  |
 <!-- 冒号(:)用来设置对其方式。默认是左对齐。 -->
 
-精简表格：  
-    这     |   是     |   表头     
- : ----  |  :----:  | ----- :   
-  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf   
-  row2  |  row2  |  rwo2    
+精简表格：    
+|  这  |  是  |  表头  |
+|  ----|  ---- | -----  |
+|  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |
+|  row2  |  row2  |  rwo2  |
+
 <!-- 在github上可以看出效果-->
 
 ## GFM demo
