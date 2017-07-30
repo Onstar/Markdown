@@ -41,5 +41,5 @@ Github Flvored Markdown, GFM
 - [x] tiem1
 
 2. emoji:表情符号  
-	:snack:  
+	:smile:  
 [具体每一个表情的符号码，可以点击查询GitHub的官方网页](http://www.emoji-cheat-sheet.com)。
