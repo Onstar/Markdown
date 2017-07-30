@@ -25,13 +25,13 @@ ___
 |  row2  |  row2  |  rwo2  |
 <!-- 冒号(:)用来设置对其方式。默认是左对齐。 -->
 
-精简表格：    
-|  这  |  是  |  表头  |
-|  ----|  ---- | -----  |
-|  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf |
-|  row2  |  row2  |  rwo2  |
+<!--精简表格：    
+  这  |  是  |  表头    
+  ----|  ---- | -----   
+  row2sfsdsdfsfsff  |  row2sfsdfsdff |  rwo2sdfsfsfsdfffsf 
+  row2  |  row2  |  rwo2  -->
 
-<!-- 在github上可以看出效果-->
+<!-- 在github上可以看出效果(精简表格显示不出？？出现了问题）-->
 
 ## GFM demo
 Github Flvored Markdown, GFM  
